@@ -50,7 +50,6 @@
 <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="60"/>
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="60"/>
 <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_powershell.svg" alt="powershell" width="60"/>
 <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="60"/>
 <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="60"/>
