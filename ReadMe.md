@@ -32,11 +32,6 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=footer&reversal=false&color=0:b579da,100:79da7f">
 <!--💬🃏FUNFACT / 🌐https://github.com/siddharth2016/quote-readme#update-your-readme -->
-<p align="center">
-<b>FUN FACT🤔 :</b>
-<!--STARTS_HERE_QUOTE_README-->
-<i>❝Doug Engelbart invented the first computer mouse in around 1964 which was made of wood.❞</i>
-<!--ENDS_HERE_QUOTE_README-->
 
 <!--🤔INTERESTTITLE-->
 <p align="center">
